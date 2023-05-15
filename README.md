@@ -1,0 +1,3 @@
+# math_problem_classification
+Kaggle competition notebook 
+this notebook is intended to keep record of notebook run and saved successfully on kaggle. it is a method of version control , if you may say so...
